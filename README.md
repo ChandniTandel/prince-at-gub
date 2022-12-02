@@ -1,2 +1,2 @@
 # prince-at-gub
-gbu repository for practice
+gbu repository for practice after branch creation
